@@ -1,1 +1,1 @@
-Solutions to Rustlings exercises (https://rustlings.rust-lang.org/)
+Solutions to Rustlings (https://github.com/rust-lang/rustlings/) exercises.
